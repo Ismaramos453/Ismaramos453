@@ -43,12 +43,13 @@ I graduated in **Computer Engineering**, with a strong passion for **Cybersecuri
 </div>
 
 
-## Redes Sociales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
 ---
 ## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 If you have any project proposals, collaboration ideas, or just want to say hello, feel free to reach out!
 
