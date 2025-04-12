@@ -49,7 +49,7 @@ I graduated in **Computer Engineering**, with a strong passion for **Cybersecuri
 ---
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ismael-ramos-alonso-bb1568294/))
 
 If you have any project proposals, collaboration ideas, or just want to say hello, feel free to reach out!
 
