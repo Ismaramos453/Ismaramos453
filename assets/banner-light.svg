@@ -1,34 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
-<title id="title">Ismael Ramos — Cybersecurity, systems and automation</title>
-<desc id="desc">Personal profile banner with a terminal, a shield and a network diagram.</desc>
-<defs>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#c7d8eb" stroke-width=".6" opacity=".5"/></pattern>
-  <linearGradient id="accent"><stop stop-color="#087f72"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
-</defs>
-<rect x="1" y="1" width="958" height="338" rx="22" fill="#eef5fc" stroke="#c7d8eb"/>
-<rect x="1" y="1" width="958" height="338" rx="22" fill="url(#grid)"/>
-<rect x="32" y="30" width="896" height="34" rx="9" fill="#ffffff" stroke="#c7d8eb"/>
-<circle cx="50" cy="47" r="4" fill="#fb7185"/><circle cx="65" cy="47" r="4" fill="#fbbf24"/><circle cx="80" cy="47" r="4" fill="#34d399"/>
-<text x="108" y="51" fill="#4d6480" font-family="Consolas, monospace" font-size="11">ismael@github: ~/security-journey</text>
-<text x="48" y="111" fill="#087f72" font-family="Consolas, monospace" font-size="12" letter-spacing="2">COMPUTER ENGINEERING GRADUATE</text>
-<text x="44" y="174" fill="#142b46" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="700" letter-spacing="-2">Ismael Ramos</text>
-<text x="48" y="209" fill="#4d6480" font-family="Segoe UI, Arial, sans-serif" font-size="19">Cybersecurity · Systems · Automation</text>
-<rect x="48" y="231" width="72" height="3" rx="1.5" fill="url(#accent)"/>
-<g fill="none" stroke="#c7d8eb" stroke-width="1.5">
-  <path d="M742 125 L690 105 L661 139 M833 125 L876 105 L905 139 M738 188 L690 217 L659 194 M837 187 L878 217 L908 194"/>
-  <circle cx="690" cy="105" r="5" fill="#ffffff"/><circle cx="661" cy="139" r="4" fill="#ffffff"/>
-  <circle cx="876" cy="105" r="5" fill="#ffffff"/><circle cx="905" cy="139" r="4" fill="#ffffff"/>
-  <circle cx="690" cy="217" r="5" fill="#ffffff"/><circle cx="659" cy="194" r="4" fill="#ffffff"/>
-  <circle cx="878" cy="217" r="5" fill="#ffffff"/><circle cx="908" cy="194" r="4" fill="#ffffff"/>
-</g>
-<path d="M788 91 L841 112 V155 C841 194 817 219 788 232 C759 219 735 194 735 155 V112 Z" fill="#ffffff" stroke="url(#accent)" stroke-width="2.5"/>
-<path d="M788 104 L830 120 V155 C830 185 813 206 788 218 C763 206 746 185 746 155 V120 Z" fill="none" stroke="#c7d8eb"/>
-<rect x="770" y="151" width="36" height="30" rx="6" fill="none" stroke="#087f72" stroke-width="2.5"/>
-<path d="M778 151 V140 A10 10 0 0 1 798 140 V151" fill="none" stroke="#087f72" stroke-width="2.5"/>
-<circle cx="788" cy="164" r="3" fill="#087f72"/><path d="M788 166 V172" stroke="#087f72" stroke-width="2"/>
-<rect x="32" y="268" width="896" height="43" rx="10" fill="#ffffff" stroke="#c7d8eb"/>
-<text x="49" y="295" fill="#087f72" font-family="Consolas, monospace" font-size="13">$</text>
-<text x="67" y="295" fill="#4d6480" font-family="Consolas, monospace" font-size="13">learn --focus security</text>
-<text x="679" y="295" fill="#4d6480" font-family="Consolas, monospace" font-size="12">@Ismaramos453</text>
-<rect x="894" y="284" width="8" height="14" rx="1" fill="#087f72"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="476" viewBox="0 0 1120 476" role="img" aria-labelledby="title desc">
+<title id="title">Ismael Ramos — systems terminal and JSON profile</title>
+<desc id="desc">Computer Engineering graduate interested in systems administration, cybersecurity and automation. JSON profile: Ismaramos453, Python, Bash, network protection, ismaramos453@gmail.com.</desc>
+<defs><linearGradient id="frame"><stop stop-color="#7751ad"/><stop offset=".5" stop-color="#245db4"/><stop offset="1" stop-color="#087e70"/></linearGradient></defs>
+<rect x="1" y="1" width="1118" height="474" rx="16" fill="#eef3f9" stroke="url(#frame)" stroke-width="2"/>
+<g font-family="Consolas, 'Liberation Mono', monospace">
+<circle cx="29" cy="29" r="5" fill="#ed8bac"/><circle cx="47" cy="29" r="5" fill="#f1d28b"/><circle cx="65" cy="29" r="5" fill="#7fd8c7"/>
+<text x="88" y="34" fill="#536b85" font-size="13" font-weight="400">ismael@github  /  profile-shell</text>
+<text x="887" y="34" fill="#087e70" font-size="12" font-weight="400">systems · security</text>
+<path d="M22 54 H1098" stroke="#c3d2e3"/>
+<rect x="24" y="76" width="514" height="344" rx="10" fill="#ffffff" stroke="#c3d2e3"/>
+<rect x="558" y="76" width="538" height="344" rx="10" fill="#ffffff" stroke="#c3d2e3"/>
+<text x="45" y="106" fill="#087e70" font-size="18" font-weight="700">❯ whoami</text>
+<text x="44" y="156" fill="#1b304a" font-size="35" font-weight="700">Ismael Ramos</text>
+<text x="46" y="187" fill="#8b5d09" font-size="16" font-weight="400">Computer Engineering graduate</text>
+<path d="M46 209 H516" stroke="#c3d2e3"/>
+<text x="46" y="241" fill="#087e70" font-size="17" font-weight="700">❯ ls interests/</text>
+<text x="48" y="272" fill="#7751ad" font-size="15" font-weight="400">├─ systems/</text>
+<text x="235" y="272" fill="#536b85" font-size="14" font-weight="400">Administration · IT</text>
+<text x="48" y="300" fill="#7751ad" font-size="15" font-weight="400">├─ security/</text>
+<text x="235" y="300" fill="#536b85" font-size="14" font-weight="400">Networks · Protection</text>
+<text x="48" y="328" fill="#7751ad" font-size="15" font-weight="400">└─ automation/</text>
+<text x="235" y="328" fill="#536b85" font-size="14" font-weight="400">Python · Bash</text>
+<path d="M46 350 H516" stroke="#c3d2e3"/>
+<text x="46" y="382" fill="#087e70" font-size="15" font-weight="400">❯ learn --keep-going</text>
+<rect x="276" y="369" width="8" height="16" rx="1" fill="#087e70"/>
+<text x="579" y="106" fill="#087e70" font-size="17" font-weight="700">❯ cat profile.json</text>
+<text x="1024" y="105" fill="#536b85" font-size="11" font-weight="400">JSON</text>
+<path d="M579 118 H1075" stroke="#c3d2e3"/>
+<text x="584" y="141" fill="#536b85" font-size="12" font-weight="400">1</text><text x="615" y="141" font-size="15" xml:space="preserve"><tspan fill="#1b304a">{</tspan></text><text x="584" y="164" fill="#536b85" font-size="12" font-weight="400">2</text><text x="615" y="164" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;name&quot;</tspan><tspan fill="#1b304a">: </tspan><tspan fill="#087e70">&quot;Ismael Ramos&quot;</tspan><tspan fill="#1b304a">,</tspan></text><text x="584" y="187" fill="#536b85" font-size="12" font-weight="400">3</text><text x="615" y="187" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;github&quot;</tspan><tspan fill="#1b304a">: </tspan><tspan fill="#087e70">&quot;Ismaramos453&quot;</tspan><tspan fill="#1b304a">,</tspan></text><text x="584" y="210" fill="#536b85" font-size="12" font-weight="400">4</text><text x="615" y="210" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;degree&quot;</tspan><tspan fill="#1b304a">: </tspan><tspan fill="#087e70">&quot;Computer Engineering&quot;</tspan><tspan fill="#1b304a">,</tspan></text><text x="584" y="233" fill="#536b85" font-size="12" font-weight="400">5</text><text x="615" y="233" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;focus&quot;</tspan><tspan fill="#1b304a">: [</tspan></text><text x="584" y="256" fill="#536b85" font-size="12" font-weight="400">6</text><text x="615" y="256" font-size="15" xml:space="preserve"><tspan fill="#1b304a">    </tspan><tspan fill="#087e70">&quot;Systems administration&quot;</tspan><tspan fill="#1b304a">,</tspan></text><text x="584" y="279" fill="#536b85" font-size="12" font-weight="400">7</text><text x="615" y="279" font-size="15" xml:space="preserve"><tspan fill="#1b304a">    </tspan><tspan fill="#087e70">&quot;Cybersecurity&quot;</tspan><tspan fill="#1b304a"></tspan></text><text x="584" y="302" fill="#536b85" font-size="12" font-weight="400">8</text><text x="615" y="302" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  ],</tspan></text><text x="584" y="325" fill="#536b85" font-size="12" font-weight="400">9</text><text x="615" y="325" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;scripting&quot;</tspan><tspan fill="#1b304a">: [</tspan><tspan fill="#087e70">&quot;Python&quot;</tspan><tspan fill="#1b304a">, </tspan><tspan fill="#087e70">&quot;Bash&quot;</tspan><tspan fill="#1b304a">],</tspan></text><text x="584" y="348" fill="#536b85" font-size="12" font-weight="400">10</text><text x="615" y="348" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;learning&quot;</tspan><tspan fill="#1b304a">: </tspan><tspan fill="#087e70">&quot;Network protection&quot;</tspan><tspan fill="#1b304a">,</tspan></text><text x="584" y="371" fill="#536b85" font-size="12" font-weight="400">11</text><text x="615" y="371" font-size="15" xml:space="preserve"><tspan fill="#1b304a">  </tspan><tspan fill="#245db4">&quot;email&quot;</tspan><tspan fill="#1b304a">: </tspan><tspan fill="#087e70">&quot;ismaramos453@gmail.com&quot;</tspan><tspan fill="#1b304a"></tspan></text><text x="584" y="394" fill="#536b85" font-size="12" font-weight="400">12</text><text x="615" y="394" font-size="15" xml:space="preserve"><tspan fill="#1b304a">}</tspan></text>
+<circle cx="31" cy="449" r="4" fill="#087e70"/>
+<text x="46" y="454" fill="#536b85" font-size="12" font-weight="400">status: learning</text>
+<text x="320" y="454" fill="#536b85" font-size="12" font-weight="400">focus: systems + cybersecurity</text>
+<text x="918" y="454" fill="#245db4" font-size="12" font-weight="400">@Ismaramos453</text>
+</g></svg>

@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-dark.svg" width="960" alt="Ismael Ramos — Computer Engineering graduate focused on cybersecurity, systems and automation" />
+    <img src="assets/banner-dark.svg" width="960" alt="Ismael Ramos: systems terminal with whoami, interests, and a JSON profile containing education, scripting tools, and contact details" />
   </picture>
 </a>
 
@@ -49,53 +49,57 @@ I enjoy understanding how systems work, improving technological infrastructure, 
 
 ---
 
-## 💻 Languages &amp; Tools · <code>cat tech-stack.yml</code>
+## `$ cat tech-stack.yaml`
 
 <table>
+  <thead>
+    <tr><th colspan="2" align="left"><code>ismael@github:~$ cat tech-stack.yaml</code></th></tr>
+  </thead>
+  <tbody>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / Security &amp; systems</h3>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
-      <img src="https://img.shields.io/badge/Networking-146C94?style=for-the-badge" alt="Networking" />
-      <p>Exploring systems, virtual environments, and network protection.</p>
+      <p><code>├─ ▣ systems_security:</code></p>
+      <img src="https://skillicons.dev/icons?i=kali&amp;theme=dark" height="48" alt="Kali Linux" />
+      <img src="assets/icon-virtualbox.svg" width="48" height="48" alt="VirtualBox" />
+      <img src="assets/icon-networking.svg" width="48" height="48" alt="Networking" />
+      <p><sub><code>Kali Linux · VirtualBox · Networking</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / Scripting &amp; automation</h3>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Shell_Script-2D6A4F?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell Script" />
-      <p>Using scripting to simplify tasks and improve IT environments.</p>
+      <p><code>├─ ⌘ scripting_automation:</code></p>
+      <img src="https://skillicons.dev/icons?i=bash,python&amp;theme=dark" height="48" alt="Bash and Python" />
+      <p><sub><code>Bash · Python · Shell Script</code></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 / Languages &amp; data</h3>
-      <img src="https://img.shields.io/badge/JavaScript-997B16?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-      <p>A programming foundation that supports my security learning.</p>
+      <p><code>├─ ◇ languages_data:</code></p>
+      <img src="https://skillicons.dev/icons?i=js,kotlin&amp;theme=dark" height="48" alt="JavaScript and Kotlin" />
+      <img src="assets/icon-sql.svg" width="48" height="48" alt="SQL" />
+      <p><sub><code>JavaScript · Kotlin · SQL</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 / Application development</h3>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/Android_Studio-237B4B?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" />
-      <p>Web and mobile development as part of my technical background.</p>
+      <p><code>├─ ⊞ application_development:</code></p>
+      <img src="https://skillicons.dev/icons?i=angular,androidstudio&amp;theme=dark" height="48" alt="Angular and Android Studio" />
+      <p><sub><code>Angular · Android Studio</code></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 / Version control</h3>
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <p>Managing changes and collaborating on technical projects.</p>
+      <p><code>├─ ⑂ version_control:</code></p>
+      <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" height="48" alt="Git" />
+      <p><sub><code>Git</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>06 / Planning &amp; design</h3>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
-      <img src="https://img.shields.io/badge/Figma-A34731?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-      <p>Organizing ideas, planning work, and collaborating visually.</p>
+      <p><code>└─ ◈ planning_design:</code></p>
+      <img src="assets/icon-trello.svg" width="48" height="48" alt="Trello" />
+      <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" height="48" alt="Figma" />
+      <p><sub><code>Trello · Figma</code></sub></p>
     </td>
   </tr>
+  </tbody>
+  <tfoot>
+    <tr><td colspan="2"><code>status: learning · focus: systems + cybersecurity</code></td></tr>
+  </tfoot>
 </table>
 
 ---
