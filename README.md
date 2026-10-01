@@ -22,6 +22,15 @@
   <a href="https://github.com/Ismaramos453?tab=repositories">Explore my repositories</a>
 </p>
 
+<p>
+  <a href="https://github.com/Ismaramos453?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ismaramos453?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=2563EB&amp;labelColor=101C30" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Ismaramos453?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Ismaramos453?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=087F72&amp;labelColor=101C30" alt="Stars received across GitHub repositories" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -88,6 +97,57 @@ I enjoy understanding how systems work, improving technological infrastructure, 
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Statistics · <code>./activity-dashboard.sh</code>
+
+<p align="center">
+  <a href="https://github.com/Ismaramos453">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Ismaramos453&amp;bg_color=080F1E&amp;title_color=60A5FA&amp;text_color=9BAFCA&amp;icon_color=5EEAD4&amp;border_color=233956&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=GitHub%20overview" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Ismaramos453&amp;bg_color=EEF5FC&amp;title_color=2563EB&amp;text_color=4D6480&amp;icon_color=087F72&amp;border_color=C7D8EB&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=GitHub%20overview" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Ismaramos453&amp;bg_color=080F1E&amp;title_color=60A5FA&amp;text_color=9BAFCA&amp;icon_color=5EEAD4&amp;border_color=233956&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=GitHub%20overview" width="49%" alt="Ismael Ramos GitHub statistics: stars, commits, pull requests, issues, and contributions" />
+    </picture>
+  </a>
+  <a href="https://github.com/Ismaramos453">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Ismaramos453&amp;bg_color=080F1E&amp;title_color=60A5FA&amp;text_color=9BAFCA&amp;icon_color=5EEAD4&amp;border_color=233956&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;custom_title=Most%20used%20languages" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Ismaramos453&amp;bg_color=EEF5FC&amp;title_color=2563EB&amp;text_color=4D6480&amp;icon_color=087F72&amp;border_color=C7D8EB&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;custom_title=Most%20used%20languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ismaramos453&amp;bg_color=080F1E&amp;title_color=60A5FA&amp;text_color=9BAFCA&amp;icon_color=5EEAD4&amp;border_color=233956&amp;border_radius=14&amp;card_width=460&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;custom_title=Most%20used%20languages" width="49%" alt="Most used languages across Ismael Ramos public repositories" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ismaramos453">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ismaramos453&amp;background=080F1E&amp;border=233956&amp;stroke=233956&amp;ring=5EEAD4&amp;fire=60A5FA&amp;currStreakNum=60A5FA&amp;sideNums=60A5FA&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAFCA&amp;dates=9BAFCA&amp;border_radius=14&amp;timezone=Atlantic%2FCanary&amp;disable_animations=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ismaramos453&amp;background=EEF5FC&amp;border=C7D8EB&amp;stroke=C7D8EB&amp;ring=087F72&amp;fire=2563EB&amp;currStreakNum=2563EB&amp;sideNums=2563EB&amp;currStreakLabel=087F72&amp;sideLabels=4D6480&amp;dates=4D6480&amp;border_radius=14&amp;timezone=Atlantic%2FCanary&amp;disable_animations=true" />
+      <img src="https://streak-stats.demolab.com/?user=Ismaramos453&amp;background=080F1E&amp;border=233956&amp;stroke=233956&amp;ring=5EEAD4&amp;fire=60A5FA&amp;currStreakNum=60A5FA&amp;sideNums=60A5FA&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAFCA&amp;dates=9BAFCA&amp;border_radius=14&amp;timezone=Atlantic%2FCanary&amp;disable_animations=true" width="70%" alt="Total contributions, current contribution streak, and longest contribution streak" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ismaramos453">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=080F1E&amp;color=9BAFCA&amp;title_color=60A5FA&amp;line=5EEAD4&amp;point=60A5FA&amp;area_color=60A5FA&amp;area=true&amp;hide_border=false&amp;border_color=233956&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=EEF5FC&amp;color=4D6480&amp;title_color=2563EB&amp;line=087F72&amp;point=2563EB&amp;area_color=2563EB&amp;area=true&amp;hide_border=false&amp;border_color=C7D8EB&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=080F1E&amp;color=9BAFCA&amp;title_color=60A5FA&amp;line=5EEAD4&amp;point=60A5FA&amp;area_color=60A5FA&amp;area=true&amp;hide_border=false&amp;border_color=233956&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" width="98%" alt="Daily GitHub contribution activity over the last 31 days" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Languages reflect public repository code, rather than proficiency. Cards refresh periodically.</sub>
+</p>
+
+<!-- Dynamic cards provided by GitHub Stats Extended, GitHub Readme Streak Stats,
+     and GitHub Readme Activity Graph. Availability depends on those services.
+     https://github.com/stats-organization/github-stats-extended
+     https://github.com/DenverCoder1/github-readme-streak-stats
+     https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 ---
 
