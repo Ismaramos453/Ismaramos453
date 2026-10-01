@@ -8,16 +8,6 @@
 
 </div>
 
-## About
-
-<p>I'm <strong>Ismael Ramos</strong>, a Computer Engineering graduate focusing on <strong>cybersecurity, systems administration, and IT environment optimization</strong>. I enjoy understanding how infrastructure works, making technical tasks simpler, and learning how to safeguard information.</p>
-
-<ul>
-  <li><strong>Working on:</strong> strengthening my systems administration skills and exploring cybersecurity projects.</li>
-  <li><strong>Learning:</strong> network protection techniques and cloud infrastructure.</li>
-  <li><strong>Exploring:</strong> how Python and Bash can support automation and security tasks.</li>
-</ul>
-
 ## Toolkit
 
 <p>My languages and tools, organized around systems, automation, and development.</p>
