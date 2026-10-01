@@ -1,94 +1,138 @@
 <div align="center">
 
-<h1>Ismael Ramos</h1>
+<a href="https://github.com/Ismaramos453">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-dark.svg" width="960" alt="Ismael Ramos — Computer Engineering graduate focused on cybersecurity, systems and automation" />
+  </picture>
+</a>
 
-<p><strong>Computer Engineering graduate · Cybersecurity focus</strong></p>
+<h1>Hello, I'm Ismael Ramos! 👋</h1>
 
-<p>Understanding systems. Automating tasks. Building security into infrastructure.</p>
+<p><strong>Computer Engineering graduate · Cybersecurity enthusiast · Continuous learner</strong></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&amp;logo=shieldsdotio&amp;logoColor=58A6FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Linux_%26_Networks-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=58A6FF" alt="Linux and networks" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&amp;logo=gnubash&amp;logoColor=58A6FF" alt="Automation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=45&amp;lines=Computer+Engineering+graduate%3BExploring+cybersecurity+and+network+protection%3BPython+and+Bash+for+automation%3BAlways+learning.+Always+building." alt="Learning cybersecurity, network protection, and automation with Python and Bash" />
 
 <p>
   <a href="https://www.linkedin.com/in/ismael-ramos-alonso-bb1568294/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp; • &nbsp;
   <a href="mailto:ismaramos453@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Ismaramos453?tab=repositories">Repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Ismaramos453?tab=repositories">Explore my repositories</a>
 </p>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🛡️ About Me · <code>whoami</code>
 
-I'm **Ismael**, a Computer Engineering graduate focusing on **cybersecurity, systems administration, and network protection**.
+Welcome to my GitHub profile! I'm a **Computer Engineering graduate** with a strong interest in **cybersecurity**, **systems administration**, and **IT environment optimization**.
 
-I enjoy understanding how infrastructure works, finding ways to make it more reliable, and using code to simplify everyday technical tasks. My goal is to bring that foundation into securing systems and protecting information.
+I enjoy understanding how systems work, improving technological infrastructure, and learning how to protect the information that flows through it. My development background gives me another perspective on the applications and environments I want to help secure.
 
-- **Currently developing:** my skills in systems administration and cybersecurity.
-- **Currently learning:** network protection techniques and cloud infrastructure.
-- **Interested in collaborating on:** security labs, infrastructure improvements, and useful automation tools.
-
-## `$ cat security-focus.yml`
-
-```yaml
-learning_focus:
-  systems: "Linux administration and system hardening"
-  networks: "Network fundamentals and protection"
-  cloud: "Infrastructure and secure configuration"
-
-areas_to_explore:
-  - "Security monitoring and log analysis"
-  - "Python and Bash for security automation"
-  - "Reproducible labs and technical documentation"
-```
-
-## `$ ls toolkit/`
-
-Tools and languages I bring to my learning and projects:
-
-| Area | Technologies |
-| :--- | :--- |
-| **Scripting & automation** | Python · Bash · Shell scripting |
-| **Systems & labs** | Kali Linux · VirtualBox |
-| **Networking & data** | Networking · SQL |
-| **Version control** | Git · GitHub |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-</p>
-
-<details>
-<summary><strong>Additional development background</strong></summary>
-
-My development background also includes **JavaScript, Kotlin, Angular, and Android Studio**, alongside **Figma** and **Trello** for design and collaboration.
-
-I'm interested in connecting that background with application security and more secure development practices.
-
-</details>
-
-## `$ ./connect.sh`
-
-Interested in cybersecurity, infrastructure, or automation? I'm happy to exchange ideas, share what I'm learning, and collaborate on projects.
-
-<p>
-  <a href="https://www.linkedin.com/in/ismael-ramos-alonso-bb1568294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Ismael on LinkedIn" />
-  </a>
-  <a href="mailto:ismaramos453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ismael" />
-  </a>
-</p>
+- 🔭 **Currently working on:** strengthening my systems administration skills and exploring cybersecurity projects.
+- 🌱 **Currently learning:** tools and techniques for network protection and cloud infrastructure.
+- 🐍 **Interested in:** applying Python and Bash to automation and security tasks.
+- 🤝 **Happy to collaborate on:** projects that improve infrastructure, simplify technical work, and safeguard information.
+- ⚡ **Beyond the code:** I love exploring new technology and sharing what I learn with the community.
 
 ---
 
-<p align="center"><sub>Learning how systems work — and how to protect them.</sub></p>
+## 💻 Languages &amp; Tools · <code>cat tech-stack.yml</code>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Security &amp; systems</h3>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
+      <img src="https://img.shields.io/badge/Networking-146C94?style=for-the-badge" alt="Networking" />
+      <p>Exploring systems, virtual environments, and network protection.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Scripting &amp; automation</h3>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Shell_Script-2D6A4F?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell Script" />
+      <p>Using scripting to simplify tasks and improve IT environments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Languages &amp; data</h3>
+      <img src="https://img.shields.io/badge/JavaScript-997B16?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+      <p>A programming foundation that supports my security learning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Application development</h3>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Android_Studio-237B4B?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" />
+      <p>Web and mobile development as part of my technical background.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 / Version control</h3>
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <p>Managing changes and collaborating on technical projects.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 / Planning &amp; design</h3>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
+      <img src="https://img.shields.io/badge/Figma-A34731?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+      <p>Organizing ideas, planning work, and collaborating visually.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Learning Focus · <code>cat roadmap.yml</code>
+
+```yaml
+focus: cybersecurity
+
+currently_learning:
+  - Systems administration
+  - Network protection
+  - Cloud infrastructure
+
+next_to_explore:
+  - System hardening and secure configuration
+  - Security monitoring and log analysis
+  - Python and Bash for security automation
+
+motivation: Understand infrastructure and learn how to protect it
+```
+
+---
+
+## 🤝 Let's Connect · <code>./connect.sh</code>
+
+Have a project proposal, a collaboration idea, or something interesting to share about cybersecurity? I'd love to hear from you.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ismael-ramos-alonso-bb1568294/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:ismaramos453@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Ismaramos453">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+</a>
+
+<p><a href="mailto:ismaramos453@gmail.com">ismaramos453@gmail.com</a></p>
+
+<br />
+
+<sub>Thanks for visiting! Learning, building, and working toward more secure systems.</sub>
+
+</div>
