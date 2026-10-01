@@ -2,8 +2,7 @@
 
 <a href="https://github.com/Ismaramos453">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
     <img src="assets/banner-dark.svg" width="960" alt="Ismael Ramos: systems terminal with whoami, interests, and a JSON profile containing education, scripting tools, and contact details" />
   </picture>
 </a>
