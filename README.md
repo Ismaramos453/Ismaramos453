@@ -10,7 +10,6 @@
 
 ## Toolkit
 
-<p>My languages and tools, organized around systems, automation, and development.</p>
 
 <table width="100%">
   <tr>
