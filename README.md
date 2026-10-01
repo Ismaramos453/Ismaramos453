@@ -109,7 +109,6 @@
 
 ## Connect
 
-<p>I enjoy exploring new technology and sharing what I learn. Have a project idea around cybersecurity, infrastructure, or automation? Let's connect.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ismael-ramos-alonso-bb1568294/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="Connect on LinkedIn" /></a>
@@ -118,8 +117,6 @@
   &nbsp;
   <a href="https://github.com/Ismaramos453?tab=repositories"><img src="https://img.shields.io/badge/Repositories-182334?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </p>
-
-<p align="center"><a href="mailto:ismaramos453@gmail.com">ismaramos453@gmail.com</a></p>
 
 <!-- Brand tiles: Skill Icons (https://github.com/tandpfun/skill-icons), MIT license.
      Local pictograms: VirtualBox, Networking, SQL, Shell Script, and Trello.
