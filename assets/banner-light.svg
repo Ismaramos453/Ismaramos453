@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">Ismael Ramos — Cybersecurity, systems and automation</title>
+<desc id="desc">Personal profile banner with a terminal, a shield and a network diagram.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#c7d8eb" stroke-width=".6" opacity=".5"/></pattern>
+  <linearGradient id="accent"><stop stop-color="#087f72"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="958" height="338" rx="22" fill="#eef5fc" stroke="#c7d8eb"/>
+<rect x="1" y="1" width="958" height="338" rx="22" fill="url(#grid)"/>
+<rect x="32" y="30" width="896" height="34" rx="9" fill="#ffffff" stroke="#c7d8eb"/>
+<circle cx="50" cy="47" r="4" fill="#fb7185"/><circle cx="65" cy="47" r="4" fill="#fbbf24"/><circle cx="80" cy="47" r="4" fill="#34d399"/>
+<text x="108" y="51" fill="#4d6480" font-family="Consolas, monospace" font-size="11">ismael@github: ~/security-journey</text>
+<text x="48" y="111" fill="#087f72" font-family="Consolas, monospace" font-size="12" letter-spacing="2">COMPUTER ENGINEERING GRADUATE</text>
+<text x="44" y="174" fill="#142b46" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="700" letter-spacing="-2">Ismael Ramos</text>
+<text x="48" y="209" fill="#4d6480" font-family="Segoe UI, Arial, sans-serif" font-size="19">Cybersecurity · Systems · Automation</text>
+<rect x="48" y="231" width="72" height="3" rx="1.5" fill="url(#accent)"/>
+<g fill="none" stroke="#c7d8eb" stroke-width="1.5">
+  <path d="M742 125 L690 105 L661 139 M833 125 L876 105 L905 139 M738 188 L690 217 L659 194 M837 187 L878 217 L908 194"/>
+  <circle cx="690" cy="105" r="5" fill="#ffffff"/><circle cx="661" cy="139" r="4" fill="#ffffff"/>
+  <circle cx="876" cy="105" r="5" fill="#ffffff"/><circle cx="905" cy="139" r="4" fill="#ffffff"/>
+  <circle cx="690" cy="217" r="5" fill="#ffffff"/><circle cx="659" cy="194" r="4" fill="#ffffff"/>
+  <circle cx="878" cy="217" r="5" fill="#ffffff"/><circle cx="908" cy="194" r="4" fill="#ffffff"/>
+</g>
+<path d="M788 91 L841 112 V155 C841 194 817 219 788 232 C759 219 735 194 735 155 V112 Z" fill="#ffffff" stroke="url(#accent)" stroke-width="2.5"/>
+<path d="M788 104 L830 120 V155 C830 185 813 206 788 218 C763 206 746 185 746 155 V120 Z" fill="none" stroke="#c7d8eb"/>
+<rect x="770" y="151" width="36" height="30" rx="6" fill="none" stroke="#087f72" stroke-width="2.5"/>
+<path d="M778 151 V140 A10 10 0 0 1 798 140 V151" fill="none" stroke="#087f72" stroke-width="2.5"/>
+<circle cx="788" cy="164" r="3" fill="#087f72"/><path d="M788 166 V172" stroke="#087f72" stroke-width="2"/>
+<rect x="32" y="268" width="896" height="43" rx="10" fill="#ffffff" stroke="#c7d8eb"/>
+<text x="49" y="295" fill="#087f72" font-family="Consolas, monospace" font-size="13">$</text>
+<text x="67" y="295" fill="#4d6480" font-family="Consolas, monospace" font-size="13">learn --focus security</text>
+<text x="679" y="295" fill="#4d6480" font-family="Consolas, monospace" font-size="12">@Ismaramos453</text>
+<rect x="894" y="284" width="8" height="14" rx="1" fill="#087f72"/>
+</svg>
