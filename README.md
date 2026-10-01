@@ -6,16 +6,6 @@
   <img src="assets/banner-dark.svg" width="100%" alt="Ismael Ramos — systems, cybersecurity, and automation. Terminal introduction with a JSON profile." />
 </picture>
 
-<p><strong>Understanding systems. Building useful tools. Learning to protect information.</strong></p>
-
-<p>
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#learning">Learning</a> &nbsp; / &nbsp;
-  <a href="#github-activity">GitHub Activity</a> &nbsp; / &nbsp;
-  <a href="#connect">Connect</a>
-</p>
-
 </div>
 
 ## About
@@ -85,20 +75,6 @@
   </tr>
 </table>
 
-## Learning
-
-<table width="100%">
-  <tr>
-    <td width="460" valign="top">
-      <h3>01 &nbsp; Building my foundations</h3>
-      <p>Systems administration<br />Network protection<br />Cloud infrastructure</p>
-    </td>
-    <td width="460" valign="top">
-      <h3>02 &nbsp; Exploring next</h3>
-      <p>System hardening and secure configuration<br />Security monitoring and log analysis<br />Python and Bash for security automation</p>
-    </td>
-  </tr>
-</table>
 
 ## GitHub Activity
 
@@ -127,20 +103,6 @@
       <img src="https://streak-stats.demolab.com/?user=Ismaramos453&amp;background=080F1E&amp;border=233956&amp;stroke=233956&amp;ring=5EEAD4&amp;fire=60A5FA&amp;currStreakNum=60A5FA&amp;sideNums=60A5FA&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAFCA&amp;dates=9BAFCA&amp;border_radius=14&amp;timezone=Atlantic%2FCanary&amp;disable_animations=true" width="70%" alt="Total contributions, current contribution streak, and longest contribution streak" />
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ismaramos453">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=080F1E&amp;color=9BAFCA&amp;title_color=60A5FA&amp;line=5EEAD4&amp;point=60A5FA&amp;area_color=60A5FA&amp;area=true&amp;hide_border=false&amp;border_color=233956&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=EEF5FC&amp;color=4D6480&amp;title_color=2563EB&amp;line=087F72&amp;point=2563EB&amp;area_color=2563EB&amp;area=true&amp;hide_border=false&amp;border_color=C7D8EB&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismaramos453&amp;bg_color=080F1E&amp;color=9BAFCA&amp;title_color=60A5FA&amp;line=5EEAD4&amp;point=60A5FA&amp;area_color=60A5FA&amp;area=true&amp;hide_border=false&amp;border_color=233956&amp;radius=14&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days" width="98%" alt="Daily GitHub contribution activity over the last 31 days" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Languages reflect public repository code, rather than proficiency. Cards refresh periodically.</sub>
 </p>
 
 <!-- Dynamic cards provided by GitHub Stats Extended, GitHub Readme Streak Stats,
